@@ -231,12 +231,6 @@ wget -N "https://github.com/OpenGamePanel/Easy-Installers/raw/master/Linux/Debia
 sudo dpkg -i "ogp-panel-latest.deb"
 sleep 1
 sudo mysql_secure_installation
-echo -e "${GREEN} Panel has been installed! Enter the database information on the panel to continue"
-password=$(sudo cat /root/ogp_panel_mysql_info)
-echo "Host = "localhost""
-echo "User = "ogpuser""
-echo "Database Name = "ogp_panel""
-echo "Password: "$password""
 esac
 fi
 ;;
