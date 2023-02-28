@@ -192,7 +192,6 @@ wget -N "https://github.com/OpenGamePanel/Easy-Installers/raw/master/Linux/Debia
 sudo dpkg -i "ogp-panel-latest.deb"
 sleep 1
 sudo mysql_secure_installation
-
 esac
 fi
 ;;
