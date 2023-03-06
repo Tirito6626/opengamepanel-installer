@@ -9,7 +9,7 @@ Or run script without file installing:
 ```
 bash <(curl https://raw.githubusercontent.com/Tirito6626/opengamepanel-installer/main/installer.sh)
 ```
-✅
+
 ### Support
 | Ubuntu | Debian | Supports |
 |-------- |----------|-------|
