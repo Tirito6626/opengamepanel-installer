@@ -1,5 +1,5 @@
-# OGP Installer Script
-This script is not associated with OpenGamePanel, if you need help ask \_tirito\_#7409 (Discord)
+# OpenGamePanel Installer Script
+This script is not associated with OpenGamePanel, if you need help ask _tirito (Discord)
 ##  Installation
 Install script file using **wget**:
 ```
@@ -17,5 +17,5 @@ bash <(curl https://raw.githubusercontent.com/Tirito6626/opengamepanel-installer
 | 16.04   | 8     |  ✅     |
 | 17.04   | 9     |  ✅     |
 | 18.04   | 10    |  ✅     |
-| 20.04   |       |  ✅     |
+| 20.04   | 11     |  ✅     |
 | 22.04   |       |  ✅     |
